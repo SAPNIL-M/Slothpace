@@ -1,12 +1,12 @@
 ---
 title: "SlothPace 🦥: Taming Chaotic Morning Brain Dumps with 100% Offline Open-Source AI"
 published: true
-tags: hf26challenge, ai, opensource, productivity
+tags: hf26challenge, devchallenge, ai, opensource, productivity
 cover_image: https://raw.githubusercontent.com/SAPNIL-M/Slothpace/2ce0ee6/docs/cover-image.png
 canonical_url: https://github.com/SAPNIL-M/Slothpace
 ---
 
-*This project was built for the **Hacktoberfest 2026 Week 3 Open-Source AI Challenge: "Slow and Steady"** (celebrating International Sloth Day).*
+*This project was built for the [Hacktoberfest 2026 Week 3 Open-Source AI Challenge: "Slow and Steady"](https://dev.to/challenges/hacktoberfest-week3-2026-10-19) (celebrating International Sloth Day).*
 
 ---
 
