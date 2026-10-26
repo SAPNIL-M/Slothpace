@@ -2,7 +2,7 @@
 title: "SlothPace 🦥: Taming Chaotic Morning Brain Dumps with 100% Offline Open-Source AI"
 published: true
 tags: hf26challenge, ai, opensource, productivity
-cover_image: https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/cover-image.png
+cover_image: https://raw.githubusercontent.com/SAPNIL-M/Slothpace/2ce0ee6/docs/cover-image.png
 canonical_url: https://github.com/SAPNIL-M/Slothpace
 ---
 
