@@ -2,8 +2,8 @@
 title: "SlothPace 🦥: Taming Chaotic Morning Brain Dumps with 100% Offline Open-Source AI"
 published: true
 tags: hf26challenge, ai, opensource, productivity
-cover_image: https://images.unsplash.com/photo-1579202673506-ca3ce28943ef?q=80&w=1200&auto=format&fit=crop
-canonical_url: https://github.com/SAPNIL-M/slothpace
+cover_image: https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/cover-image.png
+canonical_url: https://github.com/SAPNIL-M/Slothpace
 ---
 
 *This project was built for the **Hacktoberfest 2026 Week 3 Open-Source AI Challenge: "Slow and Steady"** (celebrating International Sloth Day).*
@@ -12,7 +12,7 @@ canonical_url: https://github.com/SAPNIL-M/slothpace
 
 ## 🦥 What I Built
 
-**[SlothPace](https://github.com/SAPNIL-M/slothpace)** is a privacy-first, 100% offline daily task decomposer and gentle deadline pacer powered by open-source AI.
+**[SlothPace](https://github.com/SAPNIL-M/Slothpace)** is a privacy-first, 100% offline daily task decomposer and gentle deadline pacer powered by open-source AI.
 
 Instead of fighting executive dysfunction and getting overwhelmed by a chaotic to-do list, you simply **dump your raw, unorganized thoughts** at the start of the morning. 
 
@@ -27,8 +27,28 @@ SlothPace's local open-source AI engine:
 
 ## 🌐 Links & Source Code
 
-* **GitHub Repository:** [https://github.com/SAPNIL-M/slothpace](https://github.com/SAPNIL-M/slothpace) (MIT Licensed)
-* **Live Web App:** [https://SAPNIL-M.github.io/slothpace](https://SAPNIL-M.github.io/slothpace) *(Runs 100% in-browser, no signup or API keys required)*
+* **GitHub Repository:** [https://github.com/SAPNIL-M/Slothpace](https://github.com/SAPNIL-M/Slothpace) (MIT Licensed)
+* **Live Web App:** [https://SAPNIL-M.github.io/Slothpace](https://SAPNIL-M.github.io/Slothpace) *(Runs 100% in-browser, no signup or API keys required)*
+
+---
+
+## 📸 Demo & Screenshots
+
+### 1. Morning Brain Dump Portal
+![Morning Brain Dump](https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/screenshots/01-morning-brain-dump.png)
+*Dumping raw, chaotic thoughts without stressing about structure. 1-click presets included for instant testing.*
+
+### 2. The Paced Schedule & Sloth Branch Progress
+![Paced Schedule Overview](https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/screenshots/02-paced-schedule-dashboard(1).png)
+*Local open-source AI classifies cognitive load (⚡ Deep Focus vs. 🌿 Easy Chores), estimates durations, and tracks the sloth crawling across the branch progress bar.*
+
+### 3. Decomposed Micro-Steps & Panic-Free Buffers
+![Decomposed Micro-Steps](https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/screenshots/02-paced-schedule-dashboard(2).png)
+*Tasks broken down into bite-sized 10-15m actions with mindful sloth advice and instant +10m schedule buffer adjustments.*
+
+### 4. Gentle Deadline Focus Companion
+![Gentle Focus Timer](https://raw.githubusercontent.com/SAPNIL-M/Slothpace/main/docs/screenshots/03-gentle-focus-timer.png)
+*Structured pacing without panic: circular countdown timer, current micro-step highlight, +5m Sloth Buffer, and procedural audio rain.*
 
 ---
 
@@ -95,4 +115,4 @@ Slow and steady really does win the race. 🦥🌿
 
 ---
 
-*Feel free to star the repo on [GitHub](https://github.com/your-username/slothpace) and try pacing your next workday!*
+*Feel free to star the repo on [GitHub](https://github.com/SAPNIL-M/Slothpace) and try pacing your next workday!*

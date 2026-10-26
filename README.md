@@ -5,6 +5,10 @@
 [![AI Privacy](https://img.shields.io/badge/AI%20Privacy-100%25%20Offline-teal?style=for-the-badge&logo=shield)](./)
 [![Theme](https://img.shields.io/badge/Theme-Slow%20%26%20Steady%20%F0%9F%A6%A5-amber?style=for-the-badge)](./)
 
+<p align="center">
+  <img src="./docs/cover-image.png" alt="SlothPace Cover Banner" width="100%" style="border-radius: 16px;" />
+</p>
+
 > *"The tree that climbs slowly reaches the sun just the same."*  
 > **SlothPace** transforms your chaotic morning brain-dumps into structured, micro-timed steps with **100% offline, privacy-first open-source AI**.
 
