@@ -44,7 +44,7 @@ Closed-source cloud AI APIs create major friction for personal productivity:
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features & Screenshots
 
 | Feature | Description |
 | :--- | :--- |
@@ -55,6 +55,13 @@ Closed-source cloud AI APIs create major friction for personal productivity:
 | **🛡️ Panic-Free Buffer (+10m)** | Running late? One click adds a buffer and shifts downstream tasks gracefully. |
 | **🌧️ Procedural Focus Ambience** | Built-in Web Audio API sound generator for forest rain and zen brown noise (zero external audio files). |
 | **📝 Export Anywhere** | One-click export to clean Markdown for Obsidian, Notion, Logseq, or Slack standups. |
+
+### 📸 Visual Previews
+See the full visual walkthrough and screenshots guide in [`docs/SCREENSHOTS_AND_DEMO_GUIDE.md`](./docs/SCREENSHOTS_AND_DEMO_GUIDE.md).
+
+* **Morning Brain Dump:** `docs/screenshots/01-morning-brain-dump.png`
+* **Paced Schedule:** `docs/screenshots/02-paced-schedule-dashboard.png`
+* **Focus Timer:** `docs/screenshots/03-gentle-focus-timer.png`
 
 ---
 
